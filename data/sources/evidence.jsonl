@@ -1,0 +1,2 @@
+# Evidence registry (JSON lines). Intentionally empty at bootstrap: no record may be
+# added until its source has been located and quoted. See docs/evidence-register.md.
